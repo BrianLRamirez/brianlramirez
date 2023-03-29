@@ -3,7 +3,7 @@ My name is Brian Ramirez and this is my Github profile! Thanks for checking it o
 
 I'm not actively contributing to any projects, but feel free to checkout my profile. 
 
-- 👨🏽‍💻 &nbsp;I’m currently managing an engineering team at Google
+- 👨🏽‍💻 &nbsp;I’m currently working at Google
 - 🚀 &nbsp;I’m shipping features for Google Photos
 - 📫 &nbsp;How to reach me: [BrianRamirezDev@gmail.com](mailto:BrianRamirezDev@gmail.com) 
 - 👨‍💻 &nbsp;Learn more about my ongoing projects at [https://brianramirez.info/](https://brianramirez.info/)
